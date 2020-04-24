@@ -8,12 +8,14 @@ Repositório responsável pelos estudos de Golang através dos live codings real
 
 * **[Visual Studio Code]()**
 * **[Golang](https://golang.org/doc/install)**
-* **[]()**
+* **[Extension Golang - Visual Studio Code](https://bit.ly/2S4JFvQ)**
 * **[]()**
 * **[]()**
 * **[]()**
 
 ## Projetos Desenvolvidos
+
+* **[Projeto-01](project-01/README.md)**
 
 ### Guia de Estudos
 
