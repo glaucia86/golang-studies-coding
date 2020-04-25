@@ -1,4 +1,4 @@
-module api.crud/book
+module api-book
 
 go 1.14
 

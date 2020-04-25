@@ -14,7 +14,15 @@
 
 ## Executando Aplicação Localmente
 
-1. Basta entrar na pasta do projeto e executar o seguinte comando:
+1. Executar o comando dentro da pasta raiz `project-01/api` o seguinte comando:
+
+```bash
+> gofmt -w .
+```
+
+> esse comando precisa, por enquanto, ser executado, devido a extensão do Golang do Visual Code, que não está realizando a formatação dos arquivos de maneira devida no Windows. (somente quando alteramos qualquer linha de código nos arquivos).
+
+2. Basta entrar na pasta do projeto `project-01/api` e executar o seguinte comando:
 
 ```bash
 > go run server.go
