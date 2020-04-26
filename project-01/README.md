@@ -2,6 +2,7 @@
 
 ## Links de Estudos
 
+- **[Estudar por esse guia AQUI](https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/ola-mundo)**
 - **[Estudo-01](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)**
 - **[Estudo-02 - Fiber + Golang + CRUD](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)**
 
