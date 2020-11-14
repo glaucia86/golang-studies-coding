@@ -6,11 +6,11 @@ Repositório responsável pelos estudos de Golang através dos live codings real
 
 ## Recursos Utilizados 🚀
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=golangstudies-github-gllemos)**
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 * **[Golang](https://golang.org/doc/install)**
-* **[Extension Golang - Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go&WT.mc_id=golangstudies-github-gllemos)**
+* **[Extension Golang - Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go&WT.mc_id=javascript-0000-gllemos)**
 * **[Fiber](https://gofiber.io/)**
-* **[Azure App Service Web Apps](https://docs.microsoft.com/azure/app-service/?WT.mc_id=golangstudies-github-gllemos)**
+* **[Azure App Service Web Apps](https://docs.microsoft.com/azure/app-service/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Projetos Desenvolvidos 💻
 
@@ -30,7 +30,7 @@ Como dito durante as lives e vídeos, sempre estaremos citando links e recursos 
 
 - ✅ **[Documentação Fiber Web Framework](https://docs.gofiber.io/)**
 - ✅ **[Documentação Oficial - Golang](http://www.golangbr.org/doc/)**
-- ✅ **[Azure for Golang Developers](https://docs.microsoft.com/azure/developer/go/?WT.mc_id=golangstudies-github-gllemos)**
+- ✅ **[Azure for Golang Developers](https://docs.microsoft.com/azure/developer/go/?WT.mc_id=javascript-0000-gllemos)**
 - ✅ **[Curso Golang - Video](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW)**
 
 ## Tenho Dúvidas... O que Faço?! ❓
